@@ -1,4 +1,4 @@
-# book_view
+# movie_view
 
 ## Project setup
 ```
